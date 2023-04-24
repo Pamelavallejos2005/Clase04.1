@@ -1,0 +1,72 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    align-content: space-between;
+    justify-items: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
+
+.caja1{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    top: 50px;
+    right: 1325px;
+    background-image: url("../Imagenes/autoes.jpg");
+    border: 10px solid black;
+
+}
+.caja2{
+
+
+    position: absolute;
+    width: 750px;
+    height: 150px;
+    background-color: plum;
+    justify-items: center;
+    top: 50px;
+    right: 550px;
+    font-family: cursive;
+    font-size: 84px;
+    border: 10px solid black;
+
+}
+caja3{
+
+    position: absolute;
+    width: 980px;
+    height: 50px;
+    background-color: white;
+    justify-items: center;
+    top: 220px;
+    right: 546px;
+    font-size: 14px;
+    border: 10px solid black;
+   font-family: 'Roboto Mono', monospace;
+}
+caja4{
+
+    position: absolute;
+    width: 980px;
+    height: 600px;
+    background-color: white;
+    justify-items: center;
+    top: 290px;
+    right: 546px;
+    border: 10px solid black;
+}
+    
+    
